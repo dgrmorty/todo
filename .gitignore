@@ -1,0 +1,26 @@
+```gitignore
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+dist/
+*.egg-info/
+
+# SQLite
+tasks.db
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+```
